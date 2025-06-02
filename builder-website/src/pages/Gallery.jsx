@@ -1,0 +1,1 @@
+export default function Gallery() { return <div className="p-8 text-center">Project Gallery – See Our Work</div>; }

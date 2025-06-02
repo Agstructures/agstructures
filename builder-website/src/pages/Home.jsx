@@ -1,0 +1,1 @@
+export default function Home() { return <div className="p-8 text-center text-2xl">Welcome to Strong Foundations</div>; }

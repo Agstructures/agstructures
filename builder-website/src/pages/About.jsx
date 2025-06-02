@@ -1,0 +1,1 @@
+export default function About() { return <div className="p-8 text-center">About Us – Experienced Freelance Builder</div>; }
